@@ -1,0 +1,7 @@
+@charset "UTF-8";
+@import url("reset.css") print, screen and (min-width:481px);
+@import url("content.css")  print, screen and (min-width:481px);
+@import url("superfish.css") screen and (min-width:481px);
+/* 以下スマホサイズ用CSS */
+@import url("reset.css") screen and (max-width:480px);
+@import url("sp.css") screen and (max-width:480px);
